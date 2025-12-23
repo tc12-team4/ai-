@@ -1,0 +1,13 @@
+{
+  "Team": "TEAM 4",
+  "Answers": [
+    {
+      "id": "Q001",
+      "answer": "Votre demande nécessite l'attention d'un agent humain (Priorité: MOYENNE). Raison : Score de confiance inférieur à 0.6. Notre équipe vous contactera dans les plus brefs délais. Pour toute urgence, contactez support@doxa.dz."
+    },
+    {
+      "id": "Q002",
+      "answer": "Votre demande nécessite l'attention d'un agent humain (Priorité: MOYENNE). Raison : Score de confiance trop faible (0.398) et nombre de sources insuffisant (2). Notre équipe vous contactera dans les plus brefs délais. Pour toute urgence, contactez support@doxa.dz."
+    }
+  ]
+}

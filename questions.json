@@ -1,0 +1,12 @@
+{
+  "Questions": [
+    {
+      "id": "Q001",
+      "query": "Comment activer l'authentification 2FA sur mon compte Doxa ?"
+    },
+    {
+      "id": "Q002",
+      "query": "Erreur 500 lors de la création d'un nouveau projet"
+    }
+  ]
+}
